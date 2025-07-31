@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="center">hey hola 👋</h2>
+<h2 align="center">Hola👋 me llamo Luca Castelli</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Yo soy Luca Castelli, soy de CABA, Argentina<br>- 🔭 Actualmente trabajo en una pasantia en Maitén Cooperativa.<br>- 📚 Actualmente estoy terminando el 6° año de secundaria, y el año que viene tengo pensado entrar a la UTN a estudiar Ing. en Sistemas.<br>- ⚡ En mi tiempo libre me gusta hacer pequeños proyectos en la computadora.</p>
+<p align="left">Yo soy un Front-end Junior, de CABA, Argentina<br>- 🔭 Actualmente trabajo en una pasantia en Maitén Cooperativa.<br>- 📚 Actualmente estoy terminando el 6° año de secundaria, y el año que viene tengo pensado entrar a la UTN a estudiar Ing. en Sistemas.<br>- ⚡ En mi tiempo libre me gusta hacer pequeños proyectos en la computadora.</p>
 
 ###
 
